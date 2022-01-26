@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Dooli
 
+<<<<<<< HEAD
 coach: Dolpin
+=======
+coach: Dali
+>>>>>>> bd6d64d (Edit Dail Leopards Coach)
 
 members:
   - Linda
